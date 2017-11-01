@@ -1,0 +1,3 @@
+install:
+- ./mvnw install -Dmaven=3.5.2 -DskipTests 
+

@@ -1,4 +1,4 @@
 install:
 - mvn -N io.takari:maven:wrapper
-- ./mvnw install -Dmaven=3.5.2 -DskipTests 
+- ./mvnw install -Dmaven=3.5.2 -DskipTests -Drat.skip
 
